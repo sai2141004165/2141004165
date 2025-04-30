@@ -1,0 +1,6 @@
+Linux is a free and open-source operating system created by Linus Torvalds in 1991. It was inspired by the Unix operating system and built as a hobby project that eventually evolved into a powerful and widely used OS.
+
+The GNU/Linux philosophy emphasizes freedom, collaboration, and community-driven development. It adheres to the principles of the GNU Project, which promotes software that can be freely used, modified, and distributed.
+
+Linux follows the Unix philosophy of "doing one thing and doing it well," encouraging modular design and the use of simple, composable tools.
+ 
